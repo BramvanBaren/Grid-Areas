@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>tipsite</title>
+</head>
+<body>
+
+    <header>
+        <h1>10 tips tegen een verkoudheid</h1>
+        <p class="tagline">wat ga je daarmee doen?</p>
+
+    </header>
+    <section class="douche">
+    <h3 class="nummer">1</h3>
+    <article class="douche_article">
+        <h3>Een warme douche?</h3>
+        <p>Een warme douche ontspant je lichaam en de stoom ervan werkt als een mini-stoombad: het maakt het slijm los.</p>
+        <img src="verkouden.jpg" alt="verkouden.jpg">
+    </article>
+</section>
+
+<section class="slapen">
+    <h3 class="nummer">2</h3>
+    <article>
+        <h3>Ga slapen.</h3>
+        <p>Als je verkouden bent, heeft je lichaam meer slaap nodig om te herstellen. Ga dus op tijd naar bed en zorg ervoor dat je minstens acht uur slaapt. Minder slaap komt je herstel niet ten goede.</p>
+    </article>
+</section>
+
+<section class="drankgebruik">
+    <h3 class="nummer">3</h3>
+    <article>
+        <h3>Let op drankgebruik</h3>
+        <p>Laat alcohol achterwege en drink zoveel mogelijk (lauwwarm) water of thee. Heb je veel last van keelpijn, maak dan verse gemberthee met een schijfje citroen en een klein beetje honing.</p>
+    </article>
+</section>
+
+<section class="hygiëne">
+    <h3 class="nummer">4</h3>
+    <article>
+        <h3>Houd de hygiëne in de gaten</h3>
+        <p>Houd de hygiëne in de gaten: was regelmatig je handen en reinig zaken als deurkrukken en kranen meerdere keren per dag. Op die manier krijgt het virus niet de kans zich verder te verspreiden.</p>
+    </article>
+</section>
+
+<section class="sigaretten">
+    <h3 class="nummer">5</h3>
+    <article>
+        <h3>Blijf we van sigaretten rook.</h3>
+        <p>Wellicht een open deur, maar toch: blijf ver weg van sigaretten en sigarettenrook. Nog los van het feit dat het bijzonder ongezond is, irriteert de rook de slijmvliezen waardoor de klachten alleen maar erger worden.</p>
+    </article>
+</section>
+
+<section class="zoutoplossing">
+    <h3 class="nummer">6</h3>
+    <article>
+        <h3>neusdrupels met zoutoplossing.</h3>
+        <p>Gebruik bij een verstopte neus een neusspray met zoutoplossing. Die zijn bij elke drogist of apotheek te koop, maar je kunt het ook zelf maken. Los daartoe een afgestreken theelepel zout op in een drinkglas lauw water. Doe meerdere keren per dag een paar druppels in elk neusgat en adem dan zo diep mogelijk door de neus in.</p>
+    </article>
+</section>
+
+<section class="xylometazoline">
+    <h3 class="nummer">7</h3>
+    <article>
+        <h3>Neusspray met xylometazoline.</h3>
+        <p>Zit je neus erg verstopt, dan is een neusspray met xylometazoline aan te raden. De stof xylometazoline zorgt ervoor dat de zwelling van het slijmvlies in de neus minder wordt, waardoor je vrijer kunt ademen.</p>
+    </article>
+</section>
+
+<section class="stoombad">
+    <h3 class="nummer">8</h3>
+    <article>
+            <h3>Neem een stoombad.</h3>
+            <p>Als je het gevoel hebt dat je hoofd vol snot zit, kan een stoombad verlichting geven. Vul hiervoor een kom met warm water (nooit warmer dan 60 graden). Pak daarna een handdoek, gooi die over je hoofd en ga dan met je gezicht boven de dampende kom water zitten. Probeer zoveel mogelijk door de neus adem te halen.</p>
+    </article>
+</section>
+
+<section class="ophalen">
+    <h3 class="nummer">9</h3>
+    <article>
+            <h3>Neus ophalen.</h3>
+            <p>Je neus ophalen is beter dan je neus snuiten: met snuiten pers je namelijk snot in de bijholten en dat maakt de kans op een bijholteontsteking groter. Toch snuiten? Gebruik dan papieren zakdoekjes die je meteen na gebruik weggooit. Snuit altijd rustig en steeds één neusgat per keer.</p>
+            </article>
+</section>
+
+<section class="lucht">
+    <h3 class="nummer">10</h3>
+    <article>
+        <h3>Voldoende frisse lucht.</h3>
+        <p>Zorg altijd voor voldoende frisse lucht en ventileer goed. Droge en warme lucht irriteert namelijk de slijmvliezen, waardoor de klachten erger kunnen worden. Ventileer je wel voldoende, maar is de lucht nog steeds droog? Gebruik dan luchtbevochtigers met schoon water.</p>
+    </article>
+</section>
+
+ <div class="afb"></div>
+    
+    <aside>
+        <h3>
+            <span>Nog meer tips</span>
+            <br>10 tips voor:
+        </h3>
+        <ul>
+            <li>
+                <a href="#">tijdmanagement</a>
+            </li>
+            <li>
+                <a href="#">presentaties</a>
+            </li>
+            <li>
+                <a href="#">sollicitatiegesprekken</a>
+            </li>
+            <li>
+                <a href="#">samenwerken</a>
+            </li>
+            <li>
+                <a href="#">meer te bewegen</a>
+            </li>
+        </ul>
+        </aside>
+
+        <footer>
+            <p>&copy; Mediacollege Amsterdam 2018
+
+            </p>
+            <div id="validatie">
+                <a href="http://validator.w3.org/check?uri=referer" target="_blank">
+                    <img src="https://blanken5.home.xs4all.nl/afb/valid-html5-blue.png" alt="Valide HTML5"></a>
+                <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+                    <img src="http://jigsaw.w3.org/css-validator/images/vcss-blue.gif" alt="Valide CSS">
+                </a>
+            </div>
+        </footer>
+</body>
+</html>
+
+
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
+
+html, body, h3{
+    padding: 0;
+    margin: 0;
+}
+
+header{padding: 2em;}
+header, aside {
+    background-color: rgb(180, 220, 255) ;
+}
+
+
+h1, .tagline {color: #47a;}
+
+section{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    padding-bottom: .2em;
+}
+
+.nummer {
+    background-color: #47a;
+    color: #fff;
+    font-size: 3em;
+    width: 1.2em;
+    text-align: right;
+    padding:.2em;
+}
+
+article{
+    padding: 1em;
+}
+
+section img{
+    max-width: 100%;
+}
+
+aside ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+aside h3{
+    background-color: #47a;
+    padding: 2em;
+    color: #fff;
+}
+
+aside a {
+    text-decoration: none;
+    padding: 2em;
+    display: block;
+}
+
+aside a :hover{
+    text-decoration: none;
+    display: block;
+}
+
+footer{
+    background-color: #333;
+    color: #eee;
+    padding: 2em;
+}
+
+@media screen and (min-width: 760px) {
+    .afb{
+        display: block;
+        background-image: url(verkouden.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
+    body{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "kop kop"
+        "t1 t2"
+        "t3 t4"
+        "t3 t5"
+        "afb t6"
+        "t7 aside"
+        "t8 aside"
+        "t9 aside"
+        "t10 aside"
+        "voet voet";
+    }
+
+    header{grid-area: kop;}
+
+    .douche {grid-area: t1; }
+    .slapen {grid-area: t2; }
+    .drankgebruik {grid-area: t3; }
+    .hygiëne {grid-area: t4; }
+    .afb{grid-area: afb; }
+    .sigaretten {grid-area: t5; }
+    .zoutoplossing {grid-area: t6; } 
+    .xylometazoline {grid-area: t7; }
+    .stoombad {grid-area: t8; }
+    .ophalen {grid-area: t9; }
+    .lucht {grid-area: t10; }
+    aside {grid-area: aside;}
+    footer {grid-area: voet;}
+
+    h1{font-size: 2.6em;}
+
+    .agenda_article{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+    }
+
+    .agenda_article h3{
+        grid-column: span 2;
+    }
+
+    footer{
+        display: grid;
+        grid-template-columns: 1fr auto;
+    }
+
+}
+
+@media screen and (min-width:1000px){
+    body{
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: "kop kop kop"
+        "t1 t2 afb"
+        "t3 t4 afb"
+        "t3 t5 afb"
+        "aside t6 t6"
+        "aside t7 t8"
+        "aside t9 t10"
+        "aside"
+        "aside voet voet";
+    }
+}
